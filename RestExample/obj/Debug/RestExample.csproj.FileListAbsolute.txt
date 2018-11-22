@@ -1,0 +1,9 @@
+c:\users\soft1\documents\visual studio 2015\Projects\RestExample\RestExample\bin\Debug\RestExample.exe.config
+c:\users\soft1\documents\visual studio 2015\Projects\RestExample\RestExample\bin\Debug\RestExample.exe
+c:\users\soft1\documents\visual studio 2015\Projects\RestExample\RestExample\bin\Debug\RestExample.pdb
+c:\users\soft1\documents\visual studio 2015\Projects\RestExample\RestExample\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\soft1\documents\visual studio 2015\Projects\RestExample\RestExample\obj\Debug\RestExample.csprojResolveAssemblyReference.cache
+c:\users\soft1\documents\visual studio 2015\Projects\RestExample\RestExample\obj\Debug\RestExample.exe
+c:\users\soft1\documents\visual studio 2015\Projects\RestExample\RestExample\obj\Debug\RestExample.pdb
+c:\users\soft1\documents\visual studio 2015\Projects\RestExample\RestExample\bin\Debug\System.Net.Http.dll
+c:\users\soft1\documents\visual studio 2015\Projects\RestExample\RestExample\bin\Debug\Newtonsoft.Json.dll

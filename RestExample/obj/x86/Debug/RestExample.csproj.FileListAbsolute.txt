@@ -1,0 +1,9 @@
+c:\users\soft1\documents\visual studio 2015\Projects\RestExample\RestExample\bin\x86\Debug\RestExample.exe.config
+c:\users\soft1\documents\visual studio 2015\Projects\RestExample\RestExample\bin\x86\Debug\RestExample.exe
+c:\users\soft1\documents\visual studio 2015\Projects\RestExample\RestExample\bin\x86\Debug\RestExample.pdb
+c:\users\soft1\documents\visual studio 2015\Projects\RestExample\RestExample\bin\x86\Debug\System.Net.Http.dll
+c:\users\soft1\documents\visual studio 2015\Projects\RestExample\RestExample\bin\x86\Debug\System.Net.Http.Formatting.dll
+c:\users\soft1\documents\visual studio 2015\Projects\RestExample\RestExample\obj\x86\Debug\RestExample.exe
+c:\users\soft1\documents\visual studio 2015\Projects\RestExample\RestExample\obj\x86\Debug\RestExample.pdb
+c:\users\soft1\documents\visual studio 2015\Projects\RestExample\RestExample\bin\x86\Debug\Newtonsoft.Json.dll
+c:\users\soft1\documents\visual studio 2015\Projects\RestExample\RestExample\obj\x86\Debug\RestExample.csprojResolveAssemblyReference.cache
